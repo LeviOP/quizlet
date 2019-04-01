@@ -12,7 +12,7 @@ var extensionSettings = {
         "key": "c"
     },
     "match": {
-        "time": 0.5
+        "time": 7.1
     },
     "night": false,
     "test": {
